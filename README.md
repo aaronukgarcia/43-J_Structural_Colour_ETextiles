@@ -29,6 +29,7 @@ Textile dyeing produces 20% of global industrial water pollution. Structural col
 ## Document
 
 📄 **[43-J_Structural_Colour_ETextiles_Formatted.docx](43-J_Structural_Colour_ETextiles_Formatted.docx)** — Full collaboration whitepaper
+:bookmark_tabs: **[43-J_Structural_Colour_ETextiles_Formatted.pdf](43-J_Structural_Colour_ETextiles_Formatted.pdf)** — PDF export
 
 ## Author
 
